@@ -78,7 +78,6 @@ The refined classification uncovers significant discrepancies between traditiona
 Using a double hurdle model, our analysis distinguishes between the selection and allocation stages of climate finance. For mitigation finance, a strong positive correlation suggests standardized decision-making, whereas adaptation finance displays a more complex, need-driven pattern. Tables and figures (not fully displayed here) quantify these effects, challenging traditional views on the role of historical ties and governance in climate aid distribution.
 
 Below you can see:
-- A **SARIMA forecast** projecting reclassified climate finance evolution until the true USD 100 billion/year mark is reached.  
 - A **comparison by donor** of AI-based estimates versus traditional self-reported flows.  
 - The **over-declaration ratio** for each donor country, illustrating how much traditional methods overstate climate finance.
 
@@ -87,10 +86,10 @@ Below you can see:
 ### Graphical Carousel: Second Set of Graphs
 
 
-![Donor Comparison: Study vs. Traditional](/img/user/PhD Thesis/Chap 2/Figure_A3.png)  
+![Figure_A3.png](/img/user/Figure_A3.png)  
 *Comparison of study’s estimation vs. traditional methods by donor*
 
-![Over-Declaration Ratio by Donor](/img/user/PhD Thesis/Chap 2/Figure_A4.png)  
+![Figure_A4.png](/img/user/Figure_A4.png)  
 *Over-declaration ratio by donor countries*
 
 ---

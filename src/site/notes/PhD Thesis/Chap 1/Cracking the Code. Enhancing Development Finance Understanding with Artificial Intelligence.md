@@ -75,14 +75,14 @@ Interactive outputs visualize clustering results and thematic distributions. The
 
 Below are some visual results:
 
-![Great Apes Conservation Projects](/img/user/PhD Thesis/Chap 1/Figure_6.png)  
+![Great Apes Conservation Projects](/img/user/Figure_6.png)  
 *Great Apes Conservation Projects*
 
 
-![Syrian Conflict Projects](/img/user/PhD Thesis/Chap 1/Figure_7.png)  
+![Syrian Conflict Projects](/img/user/Figure_7.png)  
 *Syrian Conflict Projects*
 
-![Aid Trends Analysis](/img/user/PhD Thesis/Chap 1/Figure_8.png)  
+![Aid Trends Analysis](/img/user/Figure_8.png)  
 *Aid Trends Analysis*
 
 ---
