@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ph-d-thesis/chap-1/cracking-the-code-enhancing-development-finance-understanding-with-artificial-intelligence/","tags":["gardenEntry"]}
 ---
 
-[← Back to top](#development-finance-ai)
+
 
 
 **Pierre Beaucoral**<sup>*</sup>  

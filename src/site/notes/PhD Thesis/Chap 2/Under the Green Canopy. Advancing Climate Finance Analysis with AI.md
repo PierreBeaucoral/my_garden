@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ph-d-thesis/chap-2/under-the-green-canopy-advancing-climate-finance-analysis-with-ai/","tags":["gardenEntry"]}
 ---
 
-[← Back to top](#under-the-green-canopy)
+
 
 **Pierre Beaucoral**  
 UCA CNRS IRD CERDI  
