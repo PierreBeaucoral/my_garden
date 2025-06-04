@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ph-d-thesis/chap-2/under-the-green-canopy-advancing-climate-finance-analysis-with-ai/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ph-d-thesis/chap-2/under-the-green-canopy-advancing-climate-finance-analysis-with-ai/"}
 ---
 
 

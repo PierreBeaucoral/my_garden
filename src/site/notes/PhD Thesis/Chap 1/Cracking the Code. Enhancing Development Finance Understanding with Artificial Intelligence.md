@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ph-d-thesis/chap-1/cracking-the-code-enhancing-development-finance-understanding-with-artificial-intelligence/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ph-d-thesis/chap-1/cracking-the-code-enhancing-development-finance-understanding-with-artificial-intelligence/"}
 ---
 
 
