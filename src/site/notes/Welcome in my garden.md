@@ -3,7 +3,7 @@
 ---
 
 ## 🏡 [[About\|About]] 
-
+![Pasted image 20250604154140.png](/img/user/Pasted%20image%2020250604154140.png)
 I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusing on climate finance, development finance, and aid allocation in environmental contexts.
 
 *(See [[About\|About]] for full bio and teaching activities.)*
@@ -55,8 +55,8 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ## 📇 [[Contact\|Contact]]
 
-- **Email:** [pierre.beaucoral@univ-clermont.fr](mailto:pierre.beaucoral@univ-clermont.fr)  
-- **Affiliation:** CERDI UCA CNRS IRD, Clermont-Ferrand, France :contentReference[oaicite:20]{index=20}    
+- **Email:** [pierre.beaucoral@uca.fr](mailto:pierre.beaucoral@uca.fr)  
+- **Affiliation:** CERDI UCA CNRS IRD, Clermont-Ferrand, France 
 
 *(Use [[Contact\|Contact]] to find office hours, links to social profiles, and more.)*
 
