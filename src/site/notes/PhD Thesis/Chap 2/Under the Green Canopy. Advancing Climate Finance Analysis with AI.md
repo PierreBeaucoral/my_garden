@@ -47,9 +47,7 @@ The model incorporates geopolitical, institutional, and vulnerability indicators
 
 #### Full-Screen Flowchart
 
-<div style="text-align:center">
-  <img src="Figure_1.png" alt="Full Format Flowchart" style="max-width:100%; height:auto;">
-</div>
+![Figure_1.png](/img/user/Figure_1.png)
 
 ---
 
@@ -61,16 +59,16 @@ The refined classification uncovers significant discrepancies between traditiona
 
 ### Graphical Carousel: First Set of Graphs
 
-![Country Vulnerability Map](/img/user/PhD Thesis/Chap 2/Figure_A1.png)  
+![Figure_A1.png](/img/user/Figure_A1.png)
 *Map highlighting country vulnerability to climate risks*
 
-![Reclassified Disbursements](/img/user/PhD Thesis/Chap 2/Figure_2.png)  
+![Figure_2.png](/img/user/Figure_2.png)
 *Stackplot showing disbursement reclassified by ClimateFinanceBERT*
 
-![Mitigation Finance Comparison](/img/user/PhD Thesis/Chap 2/Figure_3.png)  
+![Figure_3.png](/img/user/Figure_3.png)
 *Stacked area chart comparing declaration of flows*
 
-![Adaptation Finance Comparison](/img/user/PhD Thesis/Chap 2/Figure_4.png)  
+![Figure_4 1.png](/img/user/Figure_4%201.png)
 *Projections*
 
 ---
