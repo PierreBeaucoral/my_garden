@@ -74,15 +74,15 @@ Interactive outputs visualize clustering results and thematic distributions. The
 - **Comparative Analysis:** Our method highlights discrepancies between AI-based classifications and conventional OECD categorizations, offering a more nuanced analysis of project objectives.
 
 Below are some visual results:
+![Figure_6.png](/img/user/Figure_6.png)
 
-![Great Apes Conservation Projects](/img/user/Figure_6.png)  
 *Great Apes Conservation Projects*
 
 
-![Syrian Conflict Projects](/img/user/Figure_7.png)  
+![Figure_7.png](/img/user/Figure_7.png)
 *Syrian Conflict Projects*
 
-![Aid Trends Analysis](/img/user/Figure_8.png)  
+![Figure_8.png](/img/user/Figure_8.png)
 *Aid Trends Analysis*
 
 ---
