@@ -13,6 +13,10 @@
 - Development Economics  
 - Climate & Development Finance  
 - Machine Learning Applications in Finance 
+- Trail/Running/Swimming
+- Hiking
+- Tennis/Soccer ⚽
+- Music 🪕
 
 **Experience:**  
 - **PhD Student** (Oct 2023–Present) – CERDI UCA CNRS IRD, Clermont-Ferrand 
