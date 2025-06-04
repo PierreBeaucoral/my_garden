@@ -11,36 +11,25 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ---
 
-## 📄 [[Posts\|Posts]]
-
-- **No plan, No Aid? The effects of National Adaptation Plan implementation on received Adaptation Aid** (Sep 6, 2024)  
-  Examination of how National Adaptation Plan adoption influences adaptation aid flows. :contentReference[oaicite:8]{index=8}  
-- **Under the Green Canopy: Bringing up to Date Public Climate Finance Determinants Analysis with AI** (Jan 1, 2025)  
-  Machine learning approach (ClimateFinanceBERT) to classify and analyze public climate finance determinants. :contentReference[oaicite:9]{index=9}  
-
-*(Visit [[Posts\|Posts]] for the complete list.)*
-
----
-
 ## 🚀 [[Projects\|Projects]]
 
-- **Millions for billions: Accelerating African entrepreneurial emergence for accelerated, sustainable and job-rich growth** (Apr 27, 2016)  
-  Project with Jean-Michel Severino on private sector development finance in Africa. :contentReference[oaicite:10]{index=10}  
-- **Enhancing Development Project Classification with NLP on OECD CRS dataset** (May 7, 2024)  
-  Leveraging NLP to improve classification of development finance projects; part of my machine learning research. :contentReference[oaicite:11]{index=11}  
+- **No plan, No Aid? The effects of National Adaptation Plan implementation on received Adaptation Aid** (Sep 6, 2024)  
+  Examination of how National Adaptation Plan adoption influences adaptation aid flows. 
+- **Under the Green Canopy: Bringing up to Date Public Climate Finance Determinants Analysis with AI** (Jan 1, 2025)  
+  Machine learning approach (ClimateFinanceBERT) to classify and analyze public climate finance determinants.
 
-*(More details in [[Projects\|Projects]]: code, datasets, and outcomes.)*
+*(Visit [[Projects\|Projects]] for the complete list.)*
 
 ---
 
 ## 🎤 [[Talks\|Talks]]
 
 - **Econom’IA Conference** (May 7, 2024)  
-  _“Leveraging Natural Language Processing techniques for a better classification of development projects: a case study using OECD CRS dataset.”_ :contentReference[oaicite:12]{index=12}  
+  _“Leveraging Natural Language Processing techniques for a better classification of development projects: a case study using OECD CRS dataset.”_ 
 - **CERDI PhD Seminar** (Dec 20, 2023)  
-  _“Better classification of international development finance for a better understanding of climate finance: the role of machine learning.”_ :contentReference[oaicite:13]{index=13}  
+  _“Better classification of international development finance for a better understanding of climate finance: the role of machine learning.”_  
 - **AFEDEV JDD** (Jan 28, 2025)  
-  _“Under the Green Canopy: bringing up to date public climate finance determinants analysis with AI.”_ :contentReference[oaicite:14]{index=14}  
+  _“Under the Green Canopy: bringing up to date public climate finance determinants analysis with AI.”_ 
 
 *(Complete list in [[Talks\|Talks]].)*
 

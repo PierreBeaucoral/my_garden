@@ -47,7 +47,7 @@ The model incorporates geopolitical, institutional, and vulnerability indicators
 
 #### Full-Screen Flowchart
 
-![Figure_1.png](/img/user/Figure_1.png)
+![Figure_1.png](/img/user/PhD%20Thesis/Chap%202/Figure_1.png)
 
 ---
 
@@ -59,16 +59,16 @@ The refined classification uncovers significant discrepancies between traditiona
 
 ### Graphical Carousel: First Set of Graphs
 
-![Figure_A1.png](/img/user/Figure_A1.png)
+![Figure_A1.png](/img/user/PhD%20Thesis/Chap%202/Figure_A1.png)
 *Map highlighting country vulnerability to climate risks*
 
-![Figure_2.png](/img/user/Figure_2.png)
+![Figure_2.png](/img/user/PhD%20Thesis/Chap%202/Figure_2.png)
 *Stackplot showing disbursement reclassified by ClimateFinanceBERT*
 
-![Figure_3.png](/img/user/Figure_3.png)
+![Figure_3.png](/img/user/PhD%20Thesis/Chap%202/Figure_3.png)
 *Stacked area chart comparing declaration of flows*
 
-![Figure_4 1.png](/img/user/Figure_4%201.png)
+![Figure_4 1.png](/img/user/PhD%20Thesis/Chap%202/Figure_4%201.png)
 *Projections*
 
 ---
@@ -86,10 +86,10 @@ Below you can see:
 ### Graphical Carousel: Second Set of Graphs
 
 
-![Figure_A3.png](/img/user/Figure_A3.png)  
+![Figure_A3.png](/img/user/PhD%20Thesis/Chap%202/Figure_A3.png)  
 *Comparison of study’s estimation vs. traditional methods by donor*
 
-![Figure_A4.png](/img/user/Figure_A4.png)  
+![Figure_A4.png](/img/user/PhD%20Thesis/Chap%202/Figure_A4.png)  
 *Over-declaration ratio by donor countries*
 
 ---
