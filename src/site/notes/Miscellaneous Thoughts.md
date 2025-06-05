@@ -88,7 +88,7 @@ Machine learning is a tool—_not a shortcut_. It’s most useful when integrate
 
 If this perspective resonates with you, here are some great resources that helped me on my journey:
 
-- **Martin Huber’s Research & Teaching**: University of Lucerne Profile
+- **Martin Huber’s Research & Teaching**: [His book](https://mitpress.mit.edu/9780262545914/causal-analysis/ )
 - **Angrist & Pischke** – _Mastering ‘Metrics_
 - **Chernozhukov et al. (2018)** – Double Machine Learning:  
      [Chernozhukov et al. (2018)](https://academic.oup.com/ectj/article-abstract/21/1/C1/5056401?redirectedFrom=fulltext)
