@@ -13,9 +13,9 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ## 🚀 [[Academic life/Projects\|Projects]]
 
-- **No plan, No Aid? The effects of National Adaptation Plan implementation on received Adaptation Aid** (Sep 6, 2024)  
+- **No plan, No Aid? The effects of National Adaptation Plan implementation on received Adaptation Aid**   
   Examination of how National Adaptation Plan adoption influences adaptation aid flows. 
-- **Under the Green Canopy: Bringing up to Date Public Climate Finance Determinants Analysis with AI** (Jan 1, 2025)  
+- **Under the Green Canopy: Bringing up to Date Public Climate Finance Determinants Analysis with AI** 
   Machine learning approach (ClimateFinanceBERT) to classify and analyze public climate finance determinants.
 
 *(Visit [[Academic life/Projects\|Projects]] for the complete list.)*
