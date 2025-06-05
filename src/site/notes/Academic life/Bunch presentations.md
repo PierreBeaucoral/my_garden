@@ -197,4 +197,4 @@ Cette Journée AuDACES m’a permis de :
 - Tisser des liens avec des équipes clermontoises spécialisées dans l’IA appliquée à d’autres domaines.
 
 Je tiens à remercier chaleureusement le réseau AuDACES pour l’organisation, AMD pour le déjeuner, et le CERDI. Enfin, je remercie tous les participants pour leurs questions pertinentes et leurs suggestions d’amélioration. J’espère que ces échanges feront naître de nouvelles collaborations interdisciplinaires : l’IA en SHS est un terrain en pleine expansion, et la Journée Audaces était l’occasion idéale pour mesurer l’étendue des possibles et identifier des synergies entre acteurs locaux. Ma présentation:
-![[Intelligence Artificielle dans la recherche en SHS.pdf]]
+[Intelligence Artificielle dans la recherche en SHS.pdf](https://drive.uca.fr/f/e6f50a953f524000b78c/)
