@@ -71,5 +71,7 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 | `#development-finance`   | Insights on aid allocation, public & private development funds |
 | `#machine-learning`      | Methods & applications of ML in development finance research   |
 | `#teaching`              | Course notes, lecture materials, and teaching reflections      |
+| #french                  | Content in french                                              |
+
 
 _Last updated: 2025-06-04_  
