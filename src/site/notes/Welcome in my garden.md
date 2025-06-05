@@ -61,7 +61,11 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 *(Use [[Contact\|Contact]] to find office hours, links to social profiles, and more.)*
 
 ---
+## 🤔 What's in my head? 
 
+I barely don't know, but you can have a glimpse of it in [[Miscellaneous Thoughts\|Miscellaneous Thoughts]].
+
+--- 
 ## 🗂️ Tag Overview
 
 | Tag                      | Description                                                    |
