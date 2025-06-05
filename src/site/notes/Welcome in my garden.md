@@ -6,7 +6,7 @@
 ![Pasted image 20250604154140.png](/img/user/Pasted%20image%2020250604154140.png)
 I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusing on climate finance, development finance, and aid allocation in environmental contexts.
 
-*(See [[About\|About]] for full bio and teaching activities.)*
+*(See [[About\|About]] for full bio and teaching activities. CV available [here](https://pierrebeaucoral.github.io/uploads/resume.pdf))*
 
 
 ---
