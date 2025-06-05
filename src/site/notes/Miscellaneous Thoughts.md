@@ -17,7 +17,7 @@ So yes, I’m thrilled by the technical strides on display here—every drop in 
 > PS: I am still a huge user of it, for coding it is my go to debugging 
 
 --- 
-### **How I Got Hooked on Causality**
+## **How I Got Hooked on Causality**
 
 I never expected that a course would fundamentally reshape how I think about evidence in economics. But that’s exactly what happened when I took a class from **Martin Huber**. Before that, I understood regression, correlation, and even some applied econometrics—but I hadn’t truly grasped the _difference between correlation and causation_ in a deep, operational sense.
 
