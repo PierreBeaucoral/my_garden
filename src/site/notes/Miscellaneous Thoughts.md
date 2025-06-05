@@ -39,7 +39,7 @@ Since we can't observe counterfactual outcomes directly, economists rely on **id
 - **Regression Discontinuity (RD)**
 - **Propensity Score Matching (PSM)**
 
-For beginners or practitioners, Angrist & Pischke’s _Mastering ‘Metrics_ is an essential starting point. It doesn’t just explain techniques—it teaches the logic behind them.
+For beginners or practitioners, Angrist & Pischke’s _Mastering ‘Metrics_ is a good starting point. It doesn’t just explain techniques—it teaches the logic behind them.
 
 ---
 
