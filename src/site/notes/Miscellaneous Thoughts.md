@@ -93,12 +93,9 @@ If this perspective resonates with you, here are some great resources that helpe
 - **Chernozhukov et al. (2018)** – Double Machine Learning:  
      [Chernozhukov et al. (2018)](https://academic.oup.com/ectj/article-abstract/21/1/C1/5056401?redirectedFrom=fulltext)
 - **Wager & Athey (2018)** :  
-    ([Wager & Athey, 2018](https://arxiv.org/abs/1510.04342)
-    
+    [Wager & Athey, 2018](https://arxiv.org/abs/1510.04342)
 - **EconML (Microsoft)** – [https://github.com/microsoft/EconML](https://github.com/microsoft/EconML)
-    
-- **DoubleML (Python package)** – [https://github.com/DoubleML/doubleml-for-py](https://github.com/DoubleML/doubleml-for-py)
-    
+- **DoubleML (Python package)** – [https://github.com/DoubleML/doubleml-for-py](https://docs.doubleml.org/stable/index.html)
 
 ---
 
