@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/ph-d-thesis/chap-1/cracking-the-code-enhancing-development-finance-understanding-with-artificial-intelligence/"}
 ---
 
-
-
+#development-economics`
+#machine-learning
+#development-finance
 
 **Pierre Beaucoral**<sup>*</sup>  
 UCA CNRS IRD CERDI  

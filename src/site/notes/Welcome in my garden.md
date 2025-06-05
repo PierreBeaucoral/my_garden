@@ -64,12 +64,12 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ## 🗂️ Tag Overview
 
-| Tag                           | Description                                                  |
-|-------------------------------|--------------------------------------------------------------|
-| `#development-economics`      | Notes & research on development economics                    |
-| `#climate-finance`            | Analyses of adaptation & mitigation finance flows            |
-| `#development-finance`        | Insights on aid allocation, public & private development funds |
-| `#machine-learning`           | Methods & applications of ML in development finance research  |
-| `#teaching`                   | Course notes, lecture materials, and teaching reflections     |
+| Tag                      | Description                                                    |
+| ------------------------ | -------------------------------------------------------------- |
+| `#development-economics` | Notes & research on development economics                      |
+| `#climate-finance`       | Analyses of adaptation & mitigation finance flows              |
+| `#development-finance`   | Insights on aid allocation, public & private development funds |
+| `#machine-learning`      | Methods & applications of ML in development finance research   |
+| `#teaching`              | Course notes, lecture materials, and teaching reflections      |
 
 _Last updated: 2025-06-04_  
