@@ -31,7 +31,7 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 - **AFEDEV JDD** (Jan 28, 2025)  
   _“Under the Green Canopy: bringing up to date public climate finance determinants analysis with AI.”_ 
 
-*(Complete list in [[Talks\|Talks]].)*
+*(Complete list in [[Talks\|Talks]]. You could also be interested in [[Bunch presentations\|Bunch presentations]])*
 
 ---
 
