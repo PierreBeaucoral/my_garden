@@ -11,18 +11,18 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ---
 
-## 🚀 [[Projects\|Projects]]
+## 🚀 [[Academic life/Projects\|Projects]]
 
 - **No plan, No Aid? The effects of National Adaptation Plan implementation on received Adaptation Aid** (Sep 6, 2024)  
   Examination of how National Adaptation Plan adoption influences adaptation aid flows. 
 - **Under the Green Canopy: Bringing up to Date Public Climate Finance Determinants Analysis with AI** (Jan 1, 2025)  
   Machine learning approach (ClimateFinanceBERT) to classify and analyze public climate finance determinants.
 
-*(Visit [[Projects\|Projects]] for the complete list.)*
+*(Visit [[Academic life/Projects\|Projects]] for the complete list.)*
 
 ---
 
-## 🎤 [[Talks\|Talks]]
+## 🎤 [[Academic life/Talks\|Talks]]
 
 - **Econom’IA Conference** (May 7, 2024)  
   _“Leveraging Natural Language Processing techniques for a better classification of development projects: a case study using OECD CRS dataset.”_ 
@@ -31,7 +31,7 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 - **AFEDEV JDD** (Jan 28, 2025)  
   _“Under the Green Canopy: bringing up to date public climate finance determinants analysis with AI.”_ 
 
-*(Complete list in [[Talks\|Talks]]. You could also be interested in [[Bunch presentations\|Bunch presentations]])*
+*(Complete list in [[Academic life/Talks\|Talks]]. You could also be interested in [[Academic life/Bunch presentations\|Bunch presentations]])*
 
 ---
 
@@ -44,12 +44,12 @@ I’m a PhD candidate at CERDI UCA CNRS IRD in Clermont-Ferrand, France, focusin
 
 ---
 
-## 🎓 [[Course\|Course]]
+## 🎓 [[Academic life/Course\|Course]]
 
 - **Introduction to Economics (Bachelor level)** – Teaching Assistant (Autumn 2023) 
 - **Introduction to R for Statistical Analysis (Master level, GPE training)** – Guest Lecturer (Autumn 2024) 
 
-*(Course materials and lecture slides in [[Course\|Course]].)*
+*(Course materials and lecture slides in [[Academic life/Course\|Course]].)*
 
 ---
 
