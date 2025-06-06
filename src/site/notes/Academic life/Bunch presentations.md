@@ -174,7 +174,7 @@ Pour structurer mon propos, j’ai distingué deux grands axes :
     - **Génération de contenu synthétique (“expected parrots”)** : les LLM peuvent simuler des réponses à des questionnaires selon le contexte sociologique, ce qui aide à tester des enquêtes ou à vérifier la cohérence interne des réponses (par exemple, détecter si une série de réponses libres est juste un copié-collé de formules trop génériques).
         
 
-### **Application possible **
+### **Application possible**
 
 J'ai pu parlé de deux projets de recherche [[Academic life/PhD Thesis/Chap 1/Cracking the Code. Enhancing Development Finance Understanding with Artificial Intelligence\|Cracking the Code. Enhancing Development Finance Understanding with Artificial Intelligence]] et [[Academic life/PhD Thesis/Chap 2/Under the Green Canopy. Advancing Climate Finance Analysis with AI\|Under the Green Canopy. Advancing Climate Finance Analysis with AI]]. Ainsi que d'autres pistes. 
 
