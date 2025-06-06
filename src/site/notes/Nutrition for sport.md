@@ -118,7 +118,7 @@ Fat provides essential fatty acids and supports **low-to-moderate intensity acti
 
 - May support **recovery** and reduce inflammation.
 - Dose: ~**2–3 g EPA + DHA/day** ([Philpott et al., 2019]((https://doi.org/10.1080/15438627.2018.1550401)).
-> Try to it small fishes (sardines)
+> Try to eat small fishes (sardines)
 ---
 
 ## 8. Periodization of Nutrition
