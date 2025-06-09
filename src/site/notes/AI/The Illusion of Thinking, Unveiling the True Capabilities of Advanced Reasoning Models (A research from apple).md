@@ -8,9 +8,9 @@ In the rapidly evolving landscape of artificial intelligence, a new breed of lan
 
 Historically, the evaluation of LRMs has largely relied on established mathematical and coding benchmarks. The primary focus has been on the accuracy of the final answer. However, this approach has significant drawbacks:
 
-- Data Contamination: Models might have been exposed to these specific problems during their extensive training, making it hard to discern if they are truly reasoning or merely recalling memorized solutions....
+- Data Contamination: Models might have been exposed to these specific problems during their extensive training, making it hard to discern if they are truly reasoning or merely recalling memorized solutions,
 - Lack of Transparency: These evaluations provide little to no insight into the actual structure or quality of the models' internal reasoning processes.
-- To address these shortcomings, the new study proposes a more rigorous evaluation paradigm....
+- To address these shortcomings, the new study proposes a more rigorous evaluation paradigm.
 
 ## A New Approach: Controllable Puzzle Environments
 
