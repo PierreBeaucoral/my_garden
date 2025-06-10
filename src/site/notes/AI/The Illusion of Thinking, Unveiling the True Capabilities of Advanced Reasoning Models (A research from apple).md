@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ai/the-illusion-of-thinking-unveiling-the-true-capabilities-of-advanced-reasoning-models-a-research-from-apple/"}
 ---
 
-In the rapidly evolving landscape of artificial intelligence, a new breed of language models has emerged: Large Reasoning Models (LRMs). These include cutting-edge models like OpenAI's o1/o3, DeepSeek-R1, and Claude 3.7 Sonnet Thinking. What sets LRMs apart from traditional Large Language Models (LLMs) is their ability to generate detailed "thinking processes" – often referred to as Chain-of-Thought (CoT) with self-reflection – before providing a final answer.... While they've shown impressive results on standard reasoning benchmarks, [a recent study from apple teams](https://ppc.land/content/files/2025/06/the-illusion-of-thinking.pdf), reveals fundamental limitations and surprising behaviors in their reasoning capabilities.
+In the rapidly evolving landscape of artificial intelligence, a new breed of language models has emerged: Large Reasoning Models (LRMs). These include cutting-edge models like OpenAI's o1/o3, DeepSeek-R1, and Claude 3.7 Sonnet Thinking. What sets LRMs apart from traditional Large Language Models (LLMs) is their ability to generate detailed "thinking processes" – often referred to as Chain-of-Thought (CoT) with self-reflection – before providing a final answer... While they've shown impressive results on standard reasoning benchmarks, [a recent study from apple teams](https://ppc.land/content/files/2025/06/the-illusion-of-thinking.pdf), reveals fundamental limitations and surprising behaviors in their reasoning capabilities.
 
 ## Why Current Evaluations Don't Tell the Whole Story
 
