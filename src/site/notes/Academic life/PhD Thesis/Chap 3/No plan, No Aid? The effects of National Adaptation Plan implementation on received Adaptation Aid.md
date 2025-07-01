@@ -40,11 +40,8 @@ NAP adoption reduces perceived vulnerability (−) but increases perceived capac
 ### 📊 Empirical Strategy
 
 - **Data**: OECD CRS, NAP Central (UNFCCC)
-    
 - **Period**: 2013–2023
-    
 - **Methodology**:
-    
     - OLS regression
     - 2SLS (instrument: distance from equator)
     - **Double Machine Learning (DML)** to address high-dimensional confounding and treatment endogeneity
