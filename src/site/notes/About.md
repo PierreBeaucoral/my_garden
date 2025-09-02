@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/"}
+{"dg-publish":true,"permalink":"/about/","pinned":true}
 ---
 
 
@@ -13,7 +13,7 @@
 - Development Economics  
 - Climate & Development Finance  
 - Machine Learning Applications in Finance 
-- Trail/Running/Swimming (check my [[Benchmark Running Shoes\|Benchmark Running Shoes]])
+- Trail/Running/Swimming (check my [[Sport/Benchmark Running Shoes\|Benchmark Running Shoes]])
 - Hiking
 - Tennis/Soccer ⚽
 - Music 🪕
